@@ -1,0 +1,16 @@
+.logotipo{
+    transition: transform .2s;
+    margin-left: 20%;
+
+
+}
+.logotipo:hover{
+    transform: scale(1.5); 
+}
+.logotipo2{
+    transition: transform .2s;
+
+}
+.logotipo2:hover{
+    transform: scale(1.5); 
+}
